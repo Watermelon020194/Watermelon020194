@@ -1,23 +1,20 @@
-## Hey 👋, I'm [Luis](https://hypnoticsiege.net/) 
+## Hey 👋, I'm [Haleigh](https://github.com/Watermelon020194) 
 
-<img align="right" height="60" width="60" alt="" src="https://hypnoticsiege.net/images/uploads/logo.png" />
+<img align="right" height="60" width="60" alt="" src="https://github.com/Watermelon02019" />
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&logoColor=white)](https://hypnoticsiege.net/discord)
-[![Website Badge](https://img.shields.io/badge/Snowside-000000?style=flat-square&logo=snowpack&logoColor=blue)](https://hypnoticsiege.net/snowside)
-[![Website Badge](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://hypnoticsiege.net/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=Twitter&logoColor=blue)](https://twitter.com/hypnoticsiege)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=HypnoticSiege&label=Views&color=blue&style=plastic) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=Twitter&logoColor=blue)](https://twitter.com/tpwk.haleigh)
 
-I'm a High School student planning to have a career in Aviation ✈️ or Programming 💻. I always love to expand my knowledge and learn about new technologies and tools 🔨.  Exploring different ways to solve problems has always been a big part of me to this day. Currently, I do a lot of Discord Bot Development 👨🏻‍💻 and trying to learn some more Vue & React Native 👀.
+
+A High School student. I love animals, drawing, writing, and reading. I wanna visit New York, the UK, Texas, and Paris.
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
 
 ### Some Highlights:
 
-- 📌 &nbsp; [Snapout Mental Health Awareness](https://snapout.nl/)
-- 🚀 &nbsp; [Discord x Twitch](https://github.com/HypnoticSiege/Discord-x-Twitch)
+- ☀️ &nbsp; [Snapout Mental Health Awareness](https://snapout.nl/)
+- 🤍 &nbsp; [Discord](https://discordapp.com/users/848658291050414100)
 - 🏫 &nbsp; [xDiscord FiveM](https://github.com/HypnoticSiege/xDiscord)
 - 💡 &nbsp; [Discord Light Controller](https://github.com/HypnoticSiege/discord-light-controller)
 - 🌀 &nbsp; [Discord Buttons RPC](https://github.com/HypnoticSiege/Discord-Buttons-RPC)
