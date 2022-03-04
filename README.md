@@ -10,10 +10,10 @@ a high school student. i love animals, drawing, writing, and reading. i wanna vi
 
 ### Some Highlights:
 
-- ☀️ &nbsp; [Snapout Mental Health Awareness](https://snapout.nl/)
+- ⭐️ &nbsp; [Snapout Mental Health Awareness](https://snapout.nl/)
 - 🤍 &nbsp; [Instagram](https://www.instagram.com/tpwk.haleigh/)
 - 🦋 &nbsp; [Twitter](https://twitter.com/tpwk_haleigh)
-- 💡 &nbsp; [Discord Light Controller](https://github.com/HypnoticSiege/discord-light-controller)
+- 🌻 &nbsp; [Discord](https://discordapp.com/users/848658291050414100)
 - 🌀 &nbsp; [Discord Buttons RPC](https://github.com/HypnoticSiege/Discord-Buttons-RPC)
 - 💻 &nbsp; [xMiranda FiveM](https://github.com/HypnoticSiege/xMiranda)
 
