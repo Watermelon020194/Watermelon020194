@@ -3,9 +3,6 @@
 <img align="right" height="60" width="60" alt="" src="https://github.com/Watermelon02019" />
 
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=Twitter&logoColor=blue)](https://twitter.com/tpwk.haleigh)
-
-
 A High School student. I love animals, drawing, writing, and reading. I wanna visit New York, the UK, Texas, and Paris.
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
@@ -15,7 +12,7 @@ A High School student. I love animals, drawing, writing, and reading. I wanna vi
 
 - ☀️ &nbsp; [Snapout Mental Health Awareness](https://snapout.nl/)
 - 🤍 &nbsp; [Discord](https://discordapp.com/users/848658291050414100)
-- 🏫 &nbsp; [xDiscord FiveM](https://github.com/HypnoticSiege/xDiscord)
+- 🦋 &nbsp; [Twitter](https://twitter.com/tpwk_haleigh)
 - 💡 &nbsp; [Discord Light Controller](https://github.com/HypnoticSiege/discord-light-controller)
 - 🌀 &nbsp; [Discord Buttons RPC](https://github.com/HypnoticSiege/Discord-Buttons-RPC)
 - 💻 &nbsp; [xMiranda FiveM](https://github.com/HypnoticSiege/xMiranda)
