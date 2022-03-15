@@ -1,7 +1,5 @@
 ## Hey 👋, I'm [Haleigh](https://github.com/Watermelon020194) 
 
-<img align="right" height="60" width="60" alt="" src="https://github.com/Watermelon02019" />
-
 
 a high school student. i love animals, drawing, writing, and reading. i wanna visit new york, the uk, texas, and paris.
 
