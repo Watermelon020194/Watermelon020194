@@ -16,8 +16,6 @@ a high school student. i love animals, drawing, writing, and reading. i wanna vi
 ### Languages and Tools:
 
 ![](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
-![](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=green)&nbsp;
-![](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
 ![](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
 ![](https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=typescript&logoColor=blue)&nbsp;
 ![](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=blue)&nbsp;
